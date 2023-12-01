@@ -1,0 +1,26 @@
+Controlar la administracion economica y administrativa:
+Maneja el proceso de inscripciones Individuales y Grupales.
+Grupo: Personas deben identificarse las personas que pertenecen al grupo.
+Costo por inscripcion Se debe realizar una sumatoria de todo lo reacudo. 
+Orden de participacion. Por cada juego se debe poner un stan por cada juego. Y esos datos extarer de la base de datos.
+Dependiendo de cada juego se crea las clasificaciones. 
+Retroalimentar el sistema en tiempo real web publica. 
+Ayuda para la persona que esta cargo de cada juego. 
+Validacion de usuarios. 
+Protocolo de Reglas del Gamer Fest.
+El sistema inscribe, sorte, registra el contro de los ganadores y obtiene los ganadores. Registro de gastos. Metodo de pago por deposito. 
+Previsualisacion de pagos y al final un reporte economico ingresos, gasto, egresos, Vlor final. Lista de ganadores. 
+Autoiscripcion Pago efectivo. 
+
+Adminiastrados.
+Usuario. 
+Administrador al juego.
+Tesorero. 
+
+Digrama de caso de uso. 
+Descripcion de caso de uso Chat GPT. Que atibutos debo usar. 
+Frijo alternativo.
+dRIEGRAMAS DE USO CON BUCLES. 
+
+Levantamiento de requerimientos. 
+
