@@ -1,0 +1,9 @@
+1.`git init`: Inicializa un repositorio Git vacío o reinicializa uno existente en el directorio actual. Este comando crea un nuevo repositorio local en tu máquina.
+
+2. `git add <nombre_del_archivo>` o `git add .`: Agrega archivos al área de preparación (staging area). `<nombre_del_archivo>` es el nombre específico del archivo que deseas agregar, mientras que `.` agrega todos los archivos modificados en el directorio actual al área de preparación.
+
+3. `git commit -m "Mensaje descriptivo aquí"`: Confirma los cambios realizados en el área de preparación y los guarda en el repositorio. El mensaje descriptivo proporciona información sobre los cambios realizados en este commit en particular.
+
+4. `git remote add origin <URL_del_repositorio>`: Conecta tu repositorio local con un repositorio remoto en GitHub. `<URL_del_repositorio>` es la dirección web del repositorio remoto en GitHub.
+
+5. `git push -u origin master`: Sube los cambios confirmados desde tu repositorio local al repositorio remoto en GitHub. `-u` configura la rama local `master` para que rastree la rama `origin/master` en el repositorio remoto. Dependiendo de la configuración, puede que necesites ajustar `master` por el nombre de tu rama principal si es diferente, como `main`.
